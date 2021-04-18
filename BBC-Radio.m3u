@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:0,BBC - Radio 1
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/uk/dash_full/cfs/bbc_radio_one.mpd
+#EXTINF:0,BBC - Radio 1 Dance
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/uk/dash_full/cfs/bbc_radio_one_dance.mpd
+#EXTINF:0,BBC - Radio 1Xtra
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/uk/dash_full/cfs/bbc_1xtra.mpd
+#EXTINF:0,BBC - Radio 2
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/uk/dash_full/cfs/bbc_radio_two.mpd
+#EXTINF:0,BBC - Radio 3
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/uk/dash_full/cfs/bbc_radio_three.mpd
+#EXTINF:0,BBC - Radio 4
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/uk/dash_full/cfs/bbc_radio_fourfm.mpd
+#EXTINF:0,BBC - Radio 4 Extra
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/uk/dash_full/cfs/bbc_radio_four_extra.mpd
+#EXTINF:0,BBC - Radio 5 live
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/uk/dash_full/cfs/bbc_radio_five_live.mpd
+#EXTINF:0,BBC - Radio 5 live sports extra
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/uk/dash_full/cfs/bbc_radio_five_live_sports_extra.mpd
+#EXTINF:0,BBC - Radio 6 Music
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/uk/dash_full/cfs/bbc_6music.mpd
+#EXTINF:0,BBC - Asian Network
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/uk/dash_full/cfs/bbc_asian_network.mpd
+#EXTINF:0,BBC - World Service
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/uk/dash_low/cfs/bbc_world_service.mpd
+#EXTINF:0,BBC - Radio Scotland
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/uk/dash_full/cfs/bbc_radio_scotland_fm.mpd
+#EXTINF:0,BBC - Radio nan Gàidheal
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/uk/dash_full/cfs/bbc_radio_nan_gaidheal.mpd
+#EXTINF:0,BBC - Radio Ulster
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/uk/dash_full/cfs/bbc_radio_ulster.mpd
+#EXTINF:0,BBC - Radio Foyle
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/uk/dash_full/cfs/bbc_radio_foyle.mpd
+#EXTINF:0,BBC - Radio Wales
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/uk/dash_full/cfs/bbc_radio_wales_fm.mpd
+#EXTINF:0,BBC - Radio Cymru
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/uk/dash_full/cfs/bbc_radio_cymru.mpd
+#EXTINF:0,BBC - Radio Cymru 2
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/uk/dash_full/cfs/bbc_radio_cymru_2.mpd
+#EXTINF:0,BBC - CBeebies Radio
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/uk/dash_full/cfs/cbeebies_radio.mpd
