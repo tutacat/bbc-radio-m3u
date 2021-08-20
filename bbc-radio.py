@@ -2,10 +2,10 @@
 import json, requests, sys
 
 BaseUrl   =  "https://open.live.bbc.co.uk/mediaselector/6/select/version/2.0/mediaset/pc/vpid/{}/format/json/jsfunc/JS_callbacks0"
-Stations  = ["bbc_radio_one","bbc_radio_one_dance","bbc_1xtra","bbc_radio_two","bbc_radio_three","bbc_radio_fourfm","bbc_radio_four_extra","bbc_radio_five_live","bbc_radio_five_live_sports_extra","bbc_6music","bbc_asian_network","bbc_world_service","bbc_radio_scotland_fm","bbc_radio_nan_gaidheal","bbc_radio_ulster","bbc_radio_foyle","bbc_radio_wales_fm","bbc_radio_cymru","bbc_radio_cymru_2","cbeebies_radio"]
-Names     = ["Radio 1","Radio 1 Dance","Radio 1Xtra","Radio 2","Radio 3","Radio 4","Radio 4 Extra","Radio 5 live","Radio 5 live sports extra","Radio 6 Music","Asian Network","World Service","Radio Scotland","Radio nan Gàidheal","Radio Ulster","Radio Foyle","Radio Wales","Radio Cymru","Radio Cymru 2","CBeebies Radio"]
+Stations  = ["bbc_radio_one","bbc_radio_one_dance","bbc_radio_one_relax","bbc_1xtra","bbc_radio_two","bbc_radio_three","bbc_radio_fourfm","bbc_radio_four_extra","bbc_radio_five_live","bbc_radio_five_live_sports_extra","bbc_6music","bbc_asian_network","bbc_world_service","bbc_radio_scotland_fm","bbc_radio_nan_gaidheal","bbc_radio_ulster","bbc_radio_foyle","bbc_radio_wales_fm","bbc_radio_cymru","bbc_radio_cymru_2","cbeebies_radio"]
+Names     = ["Radio 1","Radio 1 Dance","Radio 1 relax","Radio 1Xtra","Radio 2","Radio 3","Radio 4","Radio 4 Extra","Radio 5 live","Radio 5 live sports extra","Radio 6 Music","Asian Network","World Service","Radio Scotland","Radio nan Gàidheal","Radio Ulster","Radio Foyle","Radio Wales","Radio Cymru","Radio Cymru 2","CBeebies Radio"]
 namesl    = [n.lower for n in Names]
-Codes     = ["1","1d","1x","2","3","4","4x","5","5s","6","an","ws","scot","gaidheal","ulster","foyle","wales","cymru","cymru2","cbeebies"]
+Codes     = ["1","1d","1r","1x","2","3","4","4x","5","5s","6","an","ws","scot","gaidheal","ulster","foyle","wales","cymru","cymru2","cbeebies"]
 exportAll = False
 
 def help():
