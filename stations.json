@@ -1,0 +1,110 @@
+{
+    "callback_url": "https://open.live.bbc.co.uk/mediaselector/6/select/version/2.0/mediaset/pc/vpid/{}/format/json/jsfunc/JS_callbacks0",
+    "stations": [
+        {
+            "id": "bbc_radio_one",
+            "name": "Radio 1",
+            "code": "1"
+        },
+        {
+            "id": "bbc_radio_one_dance",
+            "name": "Radio 1 Dance",
+            "code": "1d"
+        },
+        {
+            "id": "bbc_radio_one_relax",
+            "name": "Radio 1 relax",
+            "code": "1r"
+        },
+        {
+            "id": "bbc_1xtra",
+            "name": "Radio 1Xtra",
+            "code": "1x"
+        },
+        {
+            "id": "bbc_radio_two",
+            "name": "Radio 2",
+            "code": "2"
+        },
+        {
+            "id": "bbc_radio_three",
+            "name": "Radio 3",
+            "code": "3"
+        },
+        {
+            "id": "bbc_radio_fourfm",
+            "name": "Radio 4",
+            "code": "4"
+        },
+        {
+            "id": "bbc_radio_four_extra",
+            "name": "Radio 4 Extra",
+            "code": "4x"
+        },
+        {
+            "id": "bbc_radio_five_live",
+            "name": "Radio 5 live",
+            "code": "5"
+        },
+        {
+            "id": "bbc_radio_five_live_sports_extra",
+            "name": "Radio 5 live sports extra",
+            "code": "5s"
+        },
+        {
+            "id": "bbc_6music",
+            "name": "Radio 6 Music",
+            "code": "6"
+        },
+        {
+            "id": "bbc_asian_network",
+            "name": "Asian Network",
+            "code": "an"
+        },
+        {
+            "id": "bbc_world_service",
+            "name": "World Service",
+            "code": "ws"
+        },
+        {
+            "id": "bbc_radio_scotland_fm",
+            "name": "Radio Scotland",
+            "code": "scot"
+        },
+        {
+            "id": "bbc_radio_nan_gaidheal",
+            "name": "Radio nan G\u00e0idheal",
+            "code": "gaidheal"
+        },
+        {
+            "id": "bbc_radio_ulster",
+            "name": "Radio Ulster",
+            "code": "ulster"
+        },
+        {
+            "id": "bbc_radio_foyle",
+            "name": "Radio Foyle",
+            "code": "foyle"
+        },
+        {
+            "id": "bbc_radio_wales_fm",
+            "name": "Radio Wales",
+            "code": "wales"
+        },
+        {
+            "id": "bbc_radio_cymru",
+            "name": "Radio Cymru",
+            "code": "cymru"
+        },
+        {
+            "id": "bbc_radio_cymru_2",
+            "name": "Radio Cymru 2",
+            "code": "cymru2"
+        },
+        {
+            "id": "cbeebies_radio",
+            "name": "CBeebies Radio",
+            "code": "cbeebies"
+        }
+    ]
+}
