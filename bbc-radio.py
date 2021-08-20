@@ -9,12 +9,12 @@ Codes     = ["1","1d","1x","2","3","4","4x","5","5s","6","an","ws","scot","gaidh
 exportAll = False
 
 def help():
-    print("==BBC Radio URL exporter==")
+    print("= BBC Radio URL exporter v0.1 =")
     print("  A tool to export BBC Radio streams")
     print("  You can get the station ID from bbc.co.uk/sounds/live:->bbc_radio_station<-")
     print()
     print("  --help    -h              Show this help.")
-    print("  --all     -a [fname]      Export all stations to BBC-Radio.m3u or fname")
+    print("  --all     -a              Export all stations to BBC-Radio.m3u")
     print("  --bitrate -b <bitrate>    Select bitrate: (best/worst/default) or (48..320) kbps")
     print("  --quality -q <bitrate>    Select bitrate: (best/worst/default) or (48..320) kbps")
     exit()
