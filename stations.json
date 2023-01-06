@@ -4,107 +4,361 @@
         {
             "id": "bbc_radio_one",
             "name": "Radio 1",
-            "code": "1"
+            "code": "1",
+            "type": "national"
         },
         {
             "id": "bbc_radio_one_dance",
             "name": "Radio 1 Dance",
-            "code": "1d"
+            "code": "1d",
+            "type": "national"
         },
         {
             "id": "bbc_radio_one_relax",
             "name": "Radio 1 relax",
-            "code": "1r"
+            "code": "1r",
+            "type": "national"
         },
         {
             "id": "bbc_1xtra",
             "name": "Radio 1Xtra",
-            "code": "1x"
+            "code": "1x",
+            "type": "national"
         },
         {
             "id": "bbc_radio_two",
             "name": "Radio 2",
-            "code": "2"
+            "code": "2",
+            "type": "national"
         },
         {
             "id": "bbc_radio_three",
             "name": "Radio 3",
-            "code": "3"
+            "code": "3",
+            "type": "national"
         },
         {
             "id": "bbc_radio_fourfm",
             "name": "Radio 4",
-            "code": "4"
+            "code": "4",
+            "type": "national"
         },
         {
             "id": "bbc_radio_four_extra",
             "name": "Radio 4 Extra",
-            "code": "4x"
+            "code": "4x",
+            "type": "national"
         },
         {
             "id": "bbc_radio_five_live",
             "name": "Radio 5 live",
-            "code": "5"
+            "code": "5",
+            "type": "national"
         },
         {
             "id": "bbc_radio_five_live_sports_extra",
             "name": "Radio 5 live sports extra",
-            "code": "5s"
+            "code": "5s",
+            "type": "national"
         },
         {
             "id": "bbc_6music",
             "name": "Radio 6 Music",
-            "code": "6"
+            "code": "6",
+            "type": "national"
         },
         {
             "id": "bbc_asian_network",
             "name": "Asian Network",
-            "code": "an"
+            "code": "an",
+            "type": "national"
         },
         {
             "id": "bbc_world_service",
             "name": "World Service",
-            "code": "ws"
+            "code": "ws",
+            "type": "national"
         },
         {
             "id": "bbc_radio_scotland_fm",
             "name": "Radio Scotland",
-            "code": "scot"
+            "code": "scot",
+            "type": "regional"
         },
         {
             "id": "bbc_radio_nan_gaidheal",
             "name": "Radio nan G\u00e0idheal",
-            "code": "gaidheal"
-        },
-        {
-            "id": "bbc_radio_ulster",
-            "name": "Radio Ulster",
-            "code": "ulster"
-        },
-        {
-            "id": "bbc_radio_foyle",
-            "name": "Radio Foyle",
-            "code": "foyle"
+            "code": "gaidheal",
+            "type": "regional"
         },
         {
             "id": "bbc_radio_wales_fm",
             "name": "Radio Wales",
-            "code": "wales"
+            "code": "wales",
+            "type": "regional"
         },
         {
             "id": "bbc_radio_cymru",
             "name": "Radio Cymru",
-            "code": "cymru"
+            "code": "cymru",
+            "type": "regional"
         },
         {
             "id": "bbc_radio_cymru_2",
             "name": "Radio Cymru 2",
-            "code": "cymru2"
+            "code": "cymru2",
+            "type": "regional"
         },
         {
             "id": "cbeebies_radio",
             "name": "CBeebies Radio",
-            "code": "cbeebies"
-        }
+            "code": "cbeebies",
+            "type": "national"
+        },
+        {
+            "id": "radio_berkshire",
+            "name": "Radio Berkshire",
+            "code": "berkshire",
+            "type": "local"
+        },
+        {
+            "id": "radio_bristol",
+            "name": "Radio Bristol",
+            "code": "bristol",
+            "type": "local"
+        },         {
+             "id": "bbc_radio_cambridge",
+             "name": "BBC Radio Cambridgeshire",
+             "code": "cambridge",
+             "type": "local"
+        },
+         {
+             "id": "bbc_radio_cornwall",
+             "name": "BBC Radio Cornwall",
+             "code": "cornwall",
+             "type": "local"
+        },
+         {
+             "id": "bbc_radio_coventry_warwickshire",
+             "name": "BBC Radio Coventry & Warwickshire",
+             "code": "coventry_warwickshire",
+             "type": "local"
+        },
+         {
+             "id": "bbc_radio_cumbria",
+             "name": "BBC Radio Cumbria",
+             "code": "cumbria",
+             "type": "local"
+        },
+         {
+             "id": "bbc_radio_derby",
+             "name": "BBC Radio Derby",
+             "code": "derby",
+             "type": "local"
+        },
+         {
+             "id": "bbc_radio_devon",
+             "name": "BBC Radio Devon",
+             "code": "devon",
+             "type": "local"
+        },
+         {
+             "id": "bbc_radio_essex",
+             "name": "BBC Radio Essex",
+             "code": "essex",
+             "type": "local"
+        },
+         {
+             "id": "bbc_radio_gloucestershire",
+             "name": "BBC Radio Gloucestershire",
+             "code": "gloucestershire",
+             "type": "local"
+        },
+         {
+             "id": "bbc_radio_guernsey",
+             "name": "BBC Radio Guernsey",
+             "code": "guernsey",
+             "type": "local"
+        },
+         {
+             "id": "bbc_radio_hereford_worcester",
+             "name": "BBC Radio Hereford & Worcester",
+             "code": "hereford_worcester",
+             "type": "local"
+        },
+         {
+             "id": "bbc_radio_humberside",
+             "name": "BBC Radio Humberside",
+             "code": "humberside",
+             "type": "local"
+        },
+         {
+             "id": "bbc_radio_jersey",
+             "name": "BBC Radio Jersey",
+             "code": "jersey",
+             "type": "local"
+        },
+         {
+             "id": "bbc_radio_kent",
+             "name": "BBC Radio Kent",
+             "code": "kent",
+             "type": "local"
+        },
+         {
+             "id": "bbc_radio_lancashire",
+             "name": "BBC Radio Lancashire",
+             "code": "lancashire",
+             "type": "local"
+        },
+         {
+             "id": "bbc_radio_leeds",
+             "name": "BBC Radio Leeds",
+             "code": "leeds",
+             "type": "local"
+        },
+         {
+             "id": "bbc_radio_leicester",
+             "name": "BBC Radio Leicester",
+             "code": "leicester",
+             "type": "local"
+        },
+         {
+             "id": "bbc_radio_lincolnshire",
+             "name": "BBC Radio Lincolnshire",
+             "code": "lincolnshire",
+             "type": "local"
+        },
+         {
+             "id": "bbc_london",
+             "name": "BBC Radio London",
+             "code": "london",
+             "type": "local"
+        },
+         {
+             "id": "bbc_radio_manchester",
+             "name": "BBC Radio Manchester",
+             "code": "manchester",
+             "type": "local"
+        },
+         {
+             "id": "bbc_radio_merseyside",
+             "name": "BBC Radio Merseyside",
+             "code": "merseyside",
+             "type": "local"
+        },
+         {
+             "id": "bbc_radio_newcastle",
+             "name": "BBC Radio Newcastle",
+             "code": "newcastle",
+             "type": "local"
+        },
+         {
+             "id": "bbc_radio_norfolk",
+             "name": "BBC Radio Norfolk",
+             "code": "norfolk",
+             "type": "local"
+        },
+         {
+             "id": "bbc_radio_northampton",
+             "name": "BBC Radio Northampton",
+             "code": "northampton",
+             "type": "local"
+        },
+         {
+             "id": "bbc_radio_nottingham",
+             "name": "BBC Radio Nottingham",
+             "code": "nottingham",
+             "type": "local"
+        },
+         {
+             "id": "bbc_radio_oxford",
+             "name": "BBC Radio Oxford",
+             "code": "oxford",
+             "type": "local"
+        },
+         {
+             "id": "bbc_radio_sheffield",
+             "name": "BBC Radio Sheffield",
+             "code": "sheffield",
+             "type": "local"
+        },
+         {
+             "id": "bbc_radio_shropshire",
+             "name": "BBC Radio Shropshire",
+             "code": "shropshire",
+             "type": "local"
+        },
+         {
+             "id": "bbc_radio_solent",
+             "name": "BBC Radio Solent",
+             "code": "solent",
+             "type": "local"
+        },
+         {
+             "id": "bbc_radio_solent_west_dorset",
+             "name": "BBC Radio Solent & Dorset",
+             "code": "solent_west_dorset",
+             "type": "local"
+        },
+         {
+             "id": "bbc_radio_somerset_sound",
+             "name": "BBC Radio Somerset Sound",
+             "code": "somerset_sound",
+             "type": "local"
+        },
+         {
+             "id": "bbc_radio_stoke",
+             "name": "BBC Radio Stoke",
+             "code": "stoke",
+             "type": "local"
+        },
+         {
+             "id": "bbc_radio_suffolk",
+             "name": "BBC Radio Suffolk",
+             "code": "suffolk",
+             "type": "local"
+        },
+         {
+             "id": "bbc_radio_surrey",
+             "name": "BBC Radio Surrey",
+             "code": "surrey",
+             "type": "local"
+        },
+         {
+             "id": "bbc_radio_sussex",
+             "name": "BBC Radio Sussex",
+             "code": "sussex",
+             "type": "local"
+        },
+         {
+             "id": "bbc_tees",
+             "name": "BBC Radio Tees",
+             "code": "tees",
+             "type": "local"
+        },
+         {
+             "id": "bbc_three_counties_radio",
+             "name": "BBC Three Counties Radio",
+             "code": "three_counties_radio",
+             "type": "local"
+        },
+         {
+             "id": "bbc_radio_wiltshire",
+             "name": "BBC Radio Wiltshire",
+             "code": "wiltshire",
+             "type": "local"
+        },
+         {
+             "id": "bbc_wm",
+             "name": "BBC Radio West Midlands",
+             "code": "wm",
+             "type": "local"
+        },
+         {
+             "id": "bbc_radio_york",
+             "name": "BBC Radio York",
+             "code": "york",
+             "type": "local"
+        },
     ]
 }
