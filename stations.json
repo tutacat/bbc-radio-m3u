@@ -115,13 +115,13 @@
             "type": "national"
         },
         {
-            "id": "radio_berkshire",
+            "id": "bbc_radio_berkshire",
             "name": "Radio Berkshire",
             "code": "berkshire",
             "type": "local"
         },
         {
-            "id": "radio_bristol",
+            "id": "bbc_radio_bristol",
             "name": "Radio Bristol",
             "code": "bristol",
             "type": "local"
