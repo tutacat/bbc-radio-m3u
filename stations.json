@@ -1,4 +1,5 @@
 {
+    "callback_url": "https://open.live.bbc.co.uk/mediaselector/6/select/version/2.0/mediaset/pc/vpid/{station}/format/json/jsfunc/JS_callbacks0?jwt_auth={auth}",
     "stations": [
         {
             "id": "bbc_radio_one",
@@ -358,6 +359,6 @@
              "name": "BBC Radio York",
              "code": "york",
              "type": "local"
-        },
+        }
     ]
 }
