@@ -1,0 +1,302 @@
+version: 2
+callback_url: https://open.live.bbc.co.uk/mediaselector/6/select/version/2.0/mediaset/pc/vpid/{station}/format/json/jsfunc/JS_callbacks0?jwt_auth={jwt_auth}
+stations:
+- id: bbc_radio_one
+  code: ['1', one]
+  name: Radio 1
+  region: nationwide
+  type: national
+- id: bbc_radio_one_dance
+  code: [1d, 1dance, dance, one dance]
+  name: Radio 1 Dance
+  region: online
+  type: national
+- id: bbc_radio_one_anthems
+  code: [1a, 1anthems, anthems, one anthems]
+  name: Radio 1 Anthems
+  region: online
+  type: national
+- id: bbc_1xtra
+  code: '1x'
+  name: Radio 1Xtra
+  region: digital
+  type: national
+- id: bbc_radio_two
+  code: '2'
+  name: Radio 2
+  region: nationwide
+  type: national
+- id: bbc_radio_three
+  code: '3'
+  name: Radio 3
+  region: nationwide
+  type: national
+- id: bbc_radio_three_unwind
+  code: '3'
+  name: Radio 3 Unwind
+  region: online
+  type: national
+- id: bbc_radio_fourfm
+  code: '4'
+  name: Radio 4
+  region: nationwide
+  type: national
+- id: bbc_radio_four_extra
+  code: '4x'
+  name: Radio 4 Extra
+  region: digital
+  type: national
+- id: bbc_radio_five_live
+  code: '5'
+  name: Radio 5 live
+  region: nationwide
+  type: national
+- id: bbc_radio_five_live_sports_extra
+  code: '5s'
+  name: Radio 5 live sports extra
+  region: digital
+  type: national
+- id: bbc_6music
+  code: '6'
+  name: Radio 6 Music
+  type: digital
+- id: bbc_asian_network
+  code: 'an'
+  name: Asian Network
+  region: nationwide
+  type: national
+- id: bbc_world_service
+  code: 'ws'
+  name: World Service
+  region: nationwide
+  type: national
+- id: bbc_radio_scotland_fm
+  code: 'scot'
+  name: Radio Scotland
+  region: scotland
+  type: regional
+- id: bbc_radio_nan_gaidheal
+  code: 'gaidheal'
+  name: "Radio nan G\xE0idheal"
+  region: scotland
+  type: regional
+- id: bbc_radio_wales_fm
+  code: 'wales'
+  name: Radio Wales
+  region: wales
+  type: regional
+- id: bbc_radio_cymru
+  code: 'cymru'
+  name: Radio Cymru
+  region: wales
+  type: regional
+- id: bbc_radio_cymru_2
+  code: 'cymru2'
+  name: Radio Cymru 2
+  region: wales
+  type: regional
+- id: cbeebies_radio
+  code: 'cbeebies'
+  name: CBeebies Radio
+  region: online
+  type: national
+- id: bbc_radio_berkshire
+  code: 'berkshire'
+  name: Radio Berkshire
+  region: berkshire
+  type: local
+- id: bbc_radio_bristol
+  code: 'bristol'
+  name: Radio Bristol
+  region: bristol
+  type: local
+- id: bbc_radio_cambridge
+  code: 'cambridge'
+  name: BBC Radio Cambridgeshire
+  region: cambridge
+  type: local
+- id: bbc_radio_cornwall
+  code: 'cornwall'
+  name: BBC Radio Cornwall
+  region: cornwall
+  type: local
+- id: bbc_radio_coventry_warwickshire,
+  code: 'coventry_warwickshire'
+  name: BBC Radio Coventry & Warwickshire
+  region: [coventry, warwickshire]
+  type: local
+- id: bbc_radio_cumbria
+  code: 'cumbria'
+  name: BBC Radio Cumbria
+  region: cumbria
+  type: local
+- id: bbc_radio_derby
+  code: 'derby'
+  name: BBC Radio Derby
+  region: derby
+  type: local
+- id: bbc_radio_devon
+  code: 'devon'
+  name: BBC Radio Devon
+  region: devon
+  type: local
+- id: bbc_radio_essex
+  code: 'essex'
+  name: BBC Radio Essex
+  region: essex
+  type: local
+- id: bbc_radio_gloucestershire
+  code: 'gloucestershire'
+  name: BBC Radio Gloucestershire
+  region: gloucestershire
+  type: local
+- id: bbc_radio_guernsey
+  code: 'guernsey'
+  name: BBC Radio Guernsey
+  region: guernsey
+  type: local
+- id: bbc_radio_hereford_worcester
+  code: 'hereford_worcester'
+  name: BBC Radio Hereford & Worcester
+  region: hereford [worcester]
+  type: local
+- id: bbc_radio_humberside
+  code: 'humberside'
+  name: BBC Radio Humberside
+  region: humberside
+  type: local
+- id: bbc_radio_jersey
+  code: 'jersey'
+  name: BBC Radio Jersey
+  region: jersey
+  type: local
+- id: bbc_radio_kent
+  code: 'kent'
+  name: BBC Radio Kent
+  region: kent
+  type: local
+- id: bbc_radio_lancashire
+  code: 'lancashire'
+  name: BBC Radio Lancashire
+  region: lancashire
+  type: local
+- id: bbc_radio_leeds
+  code: 'leeds'
+  name: BBC Radio Leeds
+  region: leeds
+  type: local
+- id: bbc_radio_leicester
+  code: 'leicester'
+  name: BBC Radio Leicester
+  region: leicester
+  type: local
+- id: bbc_radio_lincolnshire
+  code: 'lincolnshire'
+  name: BBC Radio Lincolnshire
+  region: lincolnshire
+  type: local
+- id: bbc_london
+  code: 'london'
+  name: BBC Radio London
+  region: london
+  type: local
+- id: bbc_radio_manchester
+  code: 'manchester'
+  name: BBC Radio Manchester
+  region: manchester
+  type: local
+- id: bbc_radio_merseyside
+  code: 'merseyside'
+  name: BBC Radio Merseyside
+  region: merseyside
+  type: local
+- id: bbc_radio_newcastle
+  code: 'newcastle'
+  name: BBC Radio Newcastle
+  region: newcastle
+  type: local
+- id: bbc_radio_norfolk
+  code: 'norfolk'
+  name: BBC Radio Norfolk
+  region: norfolk
+  type: local
+- id: bbc_radio_northampton
+  code: 'northampton'
+  name: BBC Radio Northampton
+  region: northampton
+  type: local
+- id: bbc_radio_nottingham
+  code: 'nottingham'
+  name: BBC Radio Nottingham
+  region: nottingham
+  type: local
+- id: bbc_radio_oxford
+  code: 'oxford'
+  name: BBC Radio Oxford
+  region: oxford
+  type: local
+- id: bbc_radio_sheffield
+  code: 'sheffield'
+  name: BBC Radio Sheffield
+  region: sheffield
+  type: local
+- id: bbc_radio_shropshire
+  code: 'shropshire'
+  name: BBC Radio Shropshire
+  region: shropshire
+  type: local
+- id: [bbc_radio_solent, bbc_radio_solent_west_dorset]
+  code: '[solent, solent_dorset, solent_west_dorset]'
+  name: BBC Radio Solent (& Dorset)
+  region: [solent, dorset]
+  type: local
+- id: bbc_radio_somerset_sound
+  code: 'somerset_sound'
+  name: BBC Radio Somerset Sound
+  region: somerset
+  type: local
+- id: bbc_radio_stoke
+  code: 'stoke'
+  name: BBC Radio Stoke
+  region: stoke
+  type: local
+- id: bbc_radio_suffolk
+  code: 'suffolk'
+  name: BBC Radio Suffolk
+  region: suffolk
+  type: local
+- id: bbc_radio_surrey
+  code: 'surrey'
+  name: BBC Radio Surrey
+  region: surrey
+  type: local
+- id: bbc_radio_sussex
+  code: 'sussex'
+  name: BBC Radio Sussex
+  region: sussex
+  type: local
+- id: bbc_tees
+  code: 'tees'
+  name: BBC Radio Tees
+  region: tees
+  type: local
+- id: bbc_three_counties_radio
+  code: 'three_counties_radio'
+  name: BBC Three Counties Radio
+  region: three_counties
+  type: local
+- id: bbc_radio_wiltshire
+  code: 'wiltshire'
+  name: BBC Radio Wiltshire
+  region: wiltshire
+  type: local
+- id: bbc_wm
+  code: 'wm'
+  name: BBC Radio West Midlands
+  region: west_midlands
+  type: local
+- id: bbc_radio_york
+  code: 'york'
+  name: BBC Radio York
+  region: york
+  type: local
